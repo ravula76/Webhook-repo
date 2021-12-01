@@ -1,2 +1,3 @@
 !#/bin/bash
-echo "second"
+echo "second
+echo "test""
