@@ -1,3 +1,4 @@
-!#/bin/bash
-echo "second
-echo "test""
+#!/bin/bash
+echo "second"
+echo "test"
+echo "three"
